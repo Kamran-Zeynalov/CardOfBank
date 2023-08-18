@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\bin\Debug\net6.0\CardOfBanks.exe
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\bin\Debug\net6.0\CardOfBanks.deps.json
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\bin\Debug\net6.0\CardOfBanks.runtimeconfig.json
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\bin\Debug\net6.0\CardOfBanks.dll
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\bin\Debug\net6.0\CardOfBanks.pdb
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.dll
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\refint\CardOfBanks.dll
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.pdb
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\CardOfBanks.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\CardOfBanks\CardOfBanks\obj\Debug\net6.0\ref\CardOfBanks.dll
